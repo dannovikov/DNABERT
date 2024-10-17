@@ -1,4 +1,5 @@
-*.csv
-*.fasta
-*.fas
-*.xlsx
+# *.csv
+# *.fasta
+data/validation/**/*.fasta
+data/validation/**/*.fas
+data/validation/**/*.xlsx
